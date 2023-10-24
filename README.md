@@ -9,7 +9,7 @@ Welcome to my GitHub profile !
 ## About Me
 
 - 🌱 I'm currently learning and growing in the world of software & web development.
-- 🎓 I'm currently purusing a degree in BE-IT from University of Mumbai.
+- 🎓 I'm currently pursuing a degree in BE-IT from University of Mumbai.
 - 📫 You can reach me at kamalagrahari2003@gmail.com .
 
 ## My Interests
