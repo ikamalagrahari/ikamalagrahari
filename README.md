@@ -23,11 +23,11 @@ Welcome to my GitHub profile !
 Here are some of the projects I'm proud of:
 
 🚀 [LoCoFit](https://github.com/Rutvikgg/locofit#locofit) :-
-- A location & Fitness App developed using java language.
-- Our app can help users to stay motivated and reach their fitness goals.
-- It helps to track steps, distance, calories burned, and other fitness metrics.
-- Provides feedback on progress, set goals, and offer challenges.
 
+- Our app is designed to support fitness enthusiasts in numerous ways, encompassing exercise history,
+  graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
+  also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
+- Provides feedback on progress, set goals, and offer challenges.
 
 ## Let's Connect
 
