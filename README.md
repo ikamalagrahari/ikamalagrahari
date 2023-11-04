@@ -22,7 +22,7 @@ Welcome to my GitHub profile !
 
 Here are some of the projects I'm proud of:
 
-🚀 [LoCoFit](https://github.com/Rutvikgg/locofit#locofit) :-
+🚀 [LoCoFit](https://github.com/kamalagrahari03/LoCoFit) :-
 
 - Our app is designed to support fitness enthusiasts in numerous ways, encompassing exercise history,
   graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
