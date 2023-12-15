@@ -29,6 +29,10 @@ Here are some of the projects I'm proud of:
   also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
 - Provides feedback on progress, set goals, and offer challenges.
 
+🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) :-
+-  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
+-  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
+    
 ## Let's Connect
 
 Feel free to connect with me on:
