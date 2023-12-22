@@ -16,7 +16,7 @@ Welcome to my GitHub profile !
 
 - 👩‍💻 I'm interested in web development, machine learning, and data science.
 - 📚 I enjoy learning new programming languages and technologies.
-- 🎮 When I'm not coding, you can find me watching movies/webseries or reading a book.
+- 🎮 When I'm not coding, you can find me watching movies/webseries, traveling or reading a book.
 
 ## My Projects
 
