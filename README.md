@@ -33,7 +33,7 @@ Here are some of the projects I'm proud of:
 -  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
 -  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
 
-🚀 [LoCoFit](https://github.com/kamalagrahari03/StudentManagementSystem) :-
+🚀 [StudentManagementSystem](https://github.com/kamalagrahari03/StudentManagementSystem) :-
 -  Student Management System is a Java Swing application for efficient student data management.
 -  With an intuitive interface, it allows easy addition, editing, and deletion of student records, simplifies grade and attendance tracking, and offers powerful search functionalities.
 -  Streamline your academic administration with this user-friendly system."
