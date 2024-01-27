@@ -46,13 +46,10 @@ Feel free to connect with me on:
 
 - GitHub: [@kamalagrahari03](https://github.com/kamalagrahari03)
 - LinkedIn: [@kamalagrahari03](www.linkedin.com/in/kamalagrahari03)
-- Twitter: [@kamalagrahari03](https://twitter.com/kamalagrahari03)
+-  X : [@kamalagrahari03](https://twitter.com/kamalagrahari03)
 - instagram : [@agr.__.kamal](https://www.instagram.com/agr.__.kamal/)
 ## Thank You
 
 Thanks for visiting my GitHub profile! I'm always excited to collaborate on projects and connect with fellow developers. Let's build something awesome together! 😄
 
-<!---
-kamalagrahari03/kamalagrahari03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
