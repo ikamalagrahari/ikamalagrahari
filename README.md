@@ -23,22 +23,33 @@ Welcome to my GitHub profile !
 
 Here are some of the projects I'm proud of:
 
-🚀 [LoCoFit](https://github.com/kamalagrahari03/LoCoFit) :-
+🚀 [FinAuto-Automation In Financial Documents and Bookkeeping](https://github.com/kamalagrahari03/ocr-to-excel) :-
+- Through our survey we have found that small and medium sized business SMB's lacks automation of finances, and have a lot of manual labour.
+- Our objective is to build an effective solution for automation of financial documents for small and medium sized businesses reducing their labour costs and to make bookkeeping easier.
+- Unleash the Power of Automation: Extract text, Segment items, Validate data, Organize Data
+- Benefits of Joining the OCR Revolution:
+  Save hours of tedious manual data entry!, Boost accuracy with automated data extraction!.
+  Simplify bookkeeping and financial analysis!, Gain insights
+- Tech Stack : Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva
+
+🚀 [LoCoFit- Location & Fitness App ](https://github.com/kamalagrahari03/LoCoFit) :-
 
 - Our app is designed to support fitness enthusiasts in numerous ways, encompassing exercise history,
   graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
   also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
 - Provides feedback on progress, set goals, and offer challenges.
+- Tech Stack : Android Studio , Java , XML , Google Map API , Canva 
 
 🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) :-
 -  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
 -  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
+-  Tech Stack : Python ,OpenAi API, Pycharm
 
 🚀 [StudentManagementSystem](https://github.com/kamalagrahari03/StudentManagementSystem) :-
 -  Student Management System is a Java Swing application for efficient student data management.
 -  With an intuitive interface, it allows easy addition, editing, and deletion of student records, simplifies grade and attendance tracking, and offers powerful search functionalities.
 -  Streamline your academic administration with this user-friendly system."
- 
+-  Tech Stack : Java Swing , intellij java
 
     
 ## Let's Connect
