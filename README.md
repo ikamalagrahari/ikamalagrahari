@@ -33,18 +33,19 @@ Here are some of the projects I'm proud of:
 - Tech Stack : Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva
 
 🚀 [LoCoFit- Location & Fitness App ](https://github.com/kamalagrahari03/LoCoFit) :-
-
 - Our app is designed to support fitness enthusiasts in numerous ways, encompassing exercise history,
   graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
   also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
 - Provides feedback on progress, set goals, and offer challenges.
 - Tech Stack : Android Studio , Java , XML , Google Map API , Canva
 
-
 🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) :-
 -  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
 -  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
 -  Tech Stack : Python ,OpenAi API, Pycharm
+
+🚀 [BeatBox](https://github.com/kamalagrahari03/BeatBoX)
+-   MP3 Music player build using python , pygame and Tkinter for GUI.
 
 🚀 [ChatAppXSwing](https://github.com/kamalagrahari03/ChatAppXSwing/tree/main)
 - Realtime ChatApp using Java Swing . 
