@@ -38,18 +38,23 @@ Here are some of the projects I'm proud of:
   graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
   also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
 - Provides feedback on progress, set goals, and offer challenges.
-- Tech Stack : Android Studio , Java , XML , Google Map API , Canva 
+- Tech Stack : Android Studio , Java , XML , Google Map API , Canva
+
 
 🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) :-
 -  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
 -  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
 -  Tech Stack : Python ,OpenAi API, Pycharm
 
+🚀 [ChatAppXSwing](https://github.com/kamalagrahari03/ChatAppXSwing/tree/main)
+- Realtime ChatApp using Java Swing . 
+- Tech Stack : Java Swing , intellij 
+
 🚀 [StudentManagementSystem](https://github.com/kamalagrahari03/StudentManagementSystem) :-
 -  Student Management System is a Java Swing application for efficient student data management.
 -  With an intuitive interface, it allows easy addition, editing, and deletion of student records, simplifies grade and attendance tracking, and offers powerful search functionalities.
 -  Streamline your academic administration with this user-friendly system."
--  Tech Stack : Java Swing , intellij java
+-  Tech Stack : Java Swing , intellij 
 
     
 ## Let's Connect
