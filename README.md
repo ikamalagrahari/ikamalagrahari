@@ -15,7 +15,7 @@ Welcome to my GitHub profile !
 
 ## My Interests
 
-- 👩‍💻 I'm interested in web development and Ai & Ml.
+- 👩‍💻 I'm interested in web development and Ai & Data Science.
 - 📚 I enjoy learning new programming languages and technologies.
 - 🎮 When I'm not coding, you can find me watching movies/webseries, traveling or reading a book.
 
