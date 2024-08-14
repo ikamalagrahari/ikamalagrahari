@@ -5,16 +5,16 @@
 
 ### Welcome to My GitHub Profile! 👋
 ---
-I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Desinger from India.
+I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from India.
 
 **About Me**
-- 🌱 Currently expanding my skills in software & web development.
+- 🌱 Currently expanding my skills in Web & Software Development.
 - 🎓 Studying BE-IT at University of Mumbai.
 - 📧 Contact: kamalagrahari2003@gmail.com
 - 🌐 Website: https://webxkamal.vercel.app/
 
 **Interests**
-- 👩‍💻 Passionate about MERN Stack development & UI/UX Desinger and AI & Data Science.
+- 👩‍💻 Passionate about MERN Stack development & UI/UX Designing and AI & Data Science.
 - 📚 Enjoy learning new programming languages and technologies.
 - 🎮 When not coding, I'm watching movies/webseries, traveling, or lost in a good book.
 
