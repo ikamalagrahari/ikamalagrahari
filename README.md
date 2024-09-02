@@ -43,7 +43,7 @@ Here are some of the projects I'm proud of:
   </details> -->
 
 
-🚀 [FinAuto-Automation In Financial Documents and Bookkeeping](https://github.com/kamalagrahari03/ocr-to-excel) :-
+🚀 [AcciBook-Automation In Financial Documents and Bookkeeping](https://github.com/kamalagrahari03/ocr-to-excel) :-
 - Through our survey we have found that small and medium sized business SMB's lacks automation of finances, and have a lot of manual labour.
 - Our objective is to build an effective solution for automation of financial documents for small and medium sized businesses reducing their labour costs and to make bookkeeping easier.
 - Unleash the Power of Automation: Extract text, Segment items, Validate data, Organize Data
