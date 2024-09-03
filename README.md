@@ -21,26 +21,24 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
 ---
 ## My Projects
 
-Here are some of the projects I'm proud of:
-
  <!-- Web Development -->
- <!-- <details>
-  <summary><b>Web Development</b></summary>
+ <!-- <details>-->
+  <!-- <summary><b>Projects </b></summary> -->
   <br/>
   
   Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
   ------- | :---------: | :--------: | :--------: | :-----------:
-  NFT Forge (Oye Paaji) | HTML, CSS, JS | [Repo](https://github.com/himanshu-03/NFT-Forge-Website) | GitHub | [NFT Forge](https://himanshu-03.github.io/NFT-Forge-Website/)
-  Portfolio Website | ReactJS, Tailwind CSS | [Repo](https://github.com/himanshu-03/portfolio) | GitHub, Netlify | [Portfolio](https://himanshu-03.github.io/portfolio/)
-  Doctor Appointment Booking System | HTML, CSS, PHP | [Repo](https://github.com/himanshu-03/Doctor-Appointment-Booking-System) | localhost | -
-  Covid-19 Dashboard | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Covid-19-Dashboard) | Streamlit | [Covid-19 Dashboard](https://himanshu-03-covid-19-dashboard-streamlitprofile-a6hwfk.streamlit.app/)
-  Flight Prediction System | Python, FastAPI | [Repo](https://github.com/himanshu-03/Flight-Price-Prediction-Streamlit) | Streamlit | [Flight Prediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
-  Myntra Clone | HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Myntra-Clone) | GitHub | [Myntra Clone](https://himanshu-03.github.io/Myntra-Clone-UI/)
-  Ambulance Booking System | Python, HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Ambulance-Booking-System) | localhost | -
-  Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
-  Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/)
+  LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/kamalagrahari03/LoCoFit) | localhost | ---
+  Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/kamalagrahari03/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
+  AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/kamalagrahari03/ocr-to-excel) | localhost | ---
+  Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) | localhost | ---
+  StudentManagementSystem | Java Swing , intellij  | [Repo](https://github.com/kamalagrahari03/StudentManagementSystem) | localhost| ---
+  BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/kamalagrahari03/BeatBoX) | localhost | ---
+  ChatAppXSwing | Java Swing , intellij  | [Repo](https://github.com/kamalagrahari03/ChatAppXSwing/tree/main) | localhost | ---
+ <!-- Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
+  Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/) -->
   
-  </details> -->
+  </details>
 
 
 🚀 [AcciBook-Automation In Financial Documents and Bookkeeping](https://github.com/kamalagrahari03/ocr-to-excel) :-
@@ -63,19 +61,7 @@ Here are some of the projects I'm proud of:
 -  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
 -  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
 -  Tech Stack : Python ,OpenAi API, Pycharm
-
-🚀 [BeatBox](https://github.com/kamalagrahari03/BeatBoX)
--   MP3 Music player build using python , pygame and Tkinter for GUI.
-
-🚀 [ChatAppXSwing](https://github.com/kamalagrahari03/ChatAppXSwing/tree/main)
-- Realtime ChatApp using Java Swing . 
-- Tech Stack : Java Swing , intellij 
-
-🚀 [StudentManagementSystem](https://github.com/kamalagrahari03/StudentManagementSystem) :-
--  Student Management System is a Java Swing application for efficient student data management.
--  With an intuitive interface, it allows easy addition, editing, and deletion of student records, simplifies grade and attendance tracking, and offers powerful search functionalities.
--  Streamline your academic administration with this user-friendly system."
--  Tech Stack : Java Swing , intellij 
+  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
