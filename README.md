@@ -104,3 +104,6 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
 Thanks for visiting my GitHub profile! I'm always excited to collaborate on projects and connect with fellow developers. Let's build something awesome together! 😄
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamalagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="KAMAL AGRAHARI" /> </p>
+
+
