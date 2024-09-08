@@ -28,20 +28,20 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
   
   Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
   ------- | :---------: | :--------: | :--------: | :-----------:
-  LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/kamalagrahari03/LoCoFit) | localhost | ---
-  Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/kamalagrahari03/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
-  AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/kamalagrahari03/ocr-to-excel) | localhost | ---
-  Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) | localhost | ---
-  StudentManagementSystem | Java Swing , intellij  | [Repo](https://github.com/kamalagrahari03/StudentManagementSystem) | localhost| ---
-  BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/kamalagrahari03/BeatBoX) | localhost | ---
-  ChatAppXSwing | Java Swing , intellij  | [Repo](https://github.com/kamalagrahari03/ChatAppXSwing/tree/main) | localhost | ---
+  LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | localhost | ---
+  Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
+  AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | localhost | ---
+  Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) | localhost | ---
+  StudentManagementSystem | Java Swing , intellij  | [Repo](https://github.com/ikamalagrahari/StudentManagementSystem) | localhost| ---
+  BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/ikamalagrahari/BeatBoX) | localhost | ---
+  ChatAppXSwing | Java Swing , intellij  | [Repo](https://github.com/ikamalagrahari/ChatAppXSwing/tree/main) | localhost | ---
  <!-- Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
   Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/) -->
   
   </details>
 
 
-🚀 [AcciBook-Automation In Financial Documents and Bookkeeping](https://github.com/kamalagrahari03/ocr-to-excel) :-
+🚀 [AcciBook-Automation In Financial Documents and Bookkeeping](https://github.com/ikamalagrahari/ocr-to-excel) :-
 - Through our survey we have found that small and medium sized business SMB's lacks automation of finances, and have a lot of manual labour.
 - Our objective is to build an effective solution for automation of financial documents for small and medium sized businesses reducing their labour costs and to make bookkeeping easier.
 - Unleash the Power of Automation: Extract text, Segment items, Validate data, Organize Data
@@ -50,14 +50,14 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
   Simplify bookkeeping and financial analysis!, Gain insights
 - Tech Stack : Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva
 
-🚀 [LoCoFit- Location & Fitness App ](https://github.com/kamalagrahari03/LoCoFit) :-
+🚀 [LoCoFit- Location & Fitness App ](https://github.com/ikamalagrahari/LoCoFit) :-
 - Our app is designed to support fitness enthusiasts in numerous ways, encompassing exercise history,
   graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
   also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
 - Provides feedback on progress, set goals, and offer challenges.
 - Tech Stack : Android Studio , Java , XML , Google Map API , Canva
 
-🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/kamalagrahari03/Virtual-Assistant-with-Python-and-ChatGPT) :-
+🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) :-
 -  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
 -  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
 -  Tech Stack : Python ,OpenAi API, Pycharm
@@ -75,21 +75,21 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
 
 <br>
 <p align="center">
-    <a href="https://https://github.com/kamalagrahari03/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalagrahari03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://https://github.com/ikamalagrahari/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ikamalagrahari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
 ##
    <br/>
-<a href="https://github.com/kamalagrahari03/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kamalagrahari03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kamalagrahari03/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalagrahari03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ikamalagrahari/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikamalagrahari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ikamalagrahari/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikamalagrahari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kamalagrahari03)
+![](https://github-profile-trophy.vercel.app/?username=ikamalagrahari)
 
 
 ---    
