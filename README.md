@@ -1,9 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalagrahari03&label=Profile%20views&color=0e75b6&style=flat" alt="KAMAL AGRAHARI" /> </p>
 
-# Hi there! 👋
 ![Profile](https://github.com/ikamalagrahari/ikamalagrahari/blob/main/NEW_LD_BANNER2.png?raw=true)
 
-### Welcome to My GitHub Profile! 👋
+### Hey, Welcome to My GitHub Profile! 👋
 ---
 I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from India.
 
