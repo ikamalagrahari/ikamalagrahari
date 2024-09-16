@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalagrahari03&label=Profile%20views&color=0e75b6&style=flat" alt="KAMAL AGRAHARI" /> </p>
 
-![Profile](https://github.com/ikamalagrahari/ikamalagrahari/blob/main/NEW_LD_BANNER2.png?raw=true)
+![Profile](https://github.com/ikamalagrahari/ikamalagrahari/blob/main/Banner.png?raw=true)
 
 ### Hey, Welcome to My GitHub Profile! 👋
 ---
