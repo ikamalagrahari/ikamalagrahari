@@ -27,7 +27,7 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & Data Analyst from India.
   
   Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
   ------- | :---------: | :--------: | :--------: | :-----------
-  TeamsConnect- Collabrate, Manage & Meet | MERN Stack, Socket.io, AWS etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
+  TeamsConnect- Collabrate, Manage & Meet | MERN Stack, UI/UX Design, Socket.io, AWS , Agile Method etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
   LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | localhost | ---
   Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
   AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | localhost | ---
