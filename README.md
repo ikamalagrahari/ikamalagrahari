@@ -30,7 +30,7 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & Data Analyst from India.
   TeamsConnect- Collabrate, Manage & Meet | MERN Stack, UI/UX Design, Socket.io, AWS , Agile Method etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
   AcademicHub | MERN Stack  | [Repo]() | localhost| ---
   Books4Engineers- Book Selling Website | HTML, CSS, JS, Libraries, Payment Gateway ,Google Map API  | [Repo](https://github.com/ikamalagrahari/Books4Engineers) | Vercel | [Books4Engineers](https://webxkamal.vercel.app/Books4Engineers/index.html)
-  TRPWS- NGO website | HTML, CSS, JS, Google Map API  | [Repo]((https://github.com/ikamalagrahari/NGO-Web)) | Github Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.com/)
+  TRPWS- NGO website | HTML, CSS, JS, Google Map API  | [Repo](https://github.com/ikamalagrahari/NGO-Web) | Github Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.com/)
   LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | Android Application | ---
   Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
   AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | Desktop GUI | ---
