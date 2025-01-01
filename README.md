@@ -4,7 +4,7 @@
 
 ### Hey, Welcome to My GitHub Profile! 👋
 ---
-I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from India.
+I'm Kamal Agrahari, a passionate Full Stack Developer & Data Analyst from India.
 
 **About Me**
 - 🌱 Currently expanding my skills in Web & Software Development.
@@ -13,7 +13,7 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
 - 🌐 Website: https://webxkamal.vercel.app/
 
 **Interests**
-- 👩‍💻 Passionate about MERN Stack development & UI/UX Designing and AI & Data Science.
+- 👩‍💻 Passionate about Full Stack development & Data Science.
 - 📚 Enjoy learning new programming languages and technologies.
 - 🎮 When not coding, I'm watching movies/webseries, traveling, or lost in a good book.
 
@@ -26,14 +26,14 @@ I'm Kamal Agrahari, a passionate MERN Stack Developer & UI/UX Designer from Indi
   <br/>
   
   Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
-  ------- | :---------: | :--------: | :--------: | :-----------:
+  ------- | :---------: | :--------: | :--------: | :-----------
+  TeamsConnect- Collabrate, Manage & Meet | MERN Stack, Socket.io, AWS etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
   LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | localhost | ---
   Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
   AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | localhost | ---
   Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) | localhost | ---
-  StudentManagementSystem | Java Swing , intellij  | [Repo](https://github.com/ikamalagrahari/StudentManagementSystem) | localhost| ---
+  AcademicHub | MERN Stack  | [Repo]() | localhost| ---
   BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/ikamalagrahari/BeatBoX) | localhost | ---
-  ChatAppXSwing | Java Swing , intellij  | [Repo](https://github.com/ikamalagrahari/ChatAppXSwing/tree/main) | localhost | ---
  <!-- Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
   Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/) -->
   
