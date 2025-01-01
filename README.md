@@ -28,12 +28,14 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & Data Analyst from India.
   Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
   ------- | :---------: | :--------: | :--------: | :-----------
   TeamsConnect- Collabrate, Manage & Meet | MERN Stack, UI/UX Design, Socket.io, AWS , Agile Method etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
-  LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | localhost | ---
-  Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
-  AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | localhost | ---
-  Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) | localhost | ---
   AcademicHub | MERN Stack  | [Repo]() | localhost| ---
-  BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/ikamalagrahari/BeatBoX) | localhost | ---
+  Books4Engineers- Book Selling Website | HTML, CSS, JS, Libraries, Payment Gateway ,Google Map API  | [Repo](https://github.com/ikamalagrahari/Books4Engineers) | Vercel | [Books4Engineers](https://webxkamal.vercel.app/Books4Engineers/index.html)
+  TRPWS- NGO website | HTML, CSS, JS, Google Map API  | [Repo]((https://github.com/ikamalagrahari/NGO-Web)) | Github Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.com/)
+  LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | Android Application | ---
+  Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
+  AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | Desktop GUI | ---
+  Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) | Desktop GUI | ---
+  BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/ikamalagrahari/BeatBoX) | Desktop GUI | ---
  <!-- Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
   Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/) -->
   
