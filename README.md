@@ -30,12 +30,13 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML Enthusiast from In
   TeamsConnect- Collabrate, Share & Meet | MERN Stack, Figma, Socket.io, AWS , Agile Method , Saas etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
   HouseRecipe- Recipe Sharing Community | MERN Stack , Figma, Vercel , Saas  etc | [Repo](https://houserecipe.vercel.app) | Vercel | [HouseRecipe](https://houserecipe.vercel.app) 
   AcademicHub- An App for Educational Insitutes | MERN Stack, Chatbot, Figma, OpenAPI, Pinecode(VectorDb), Cloudnary , Saas etc| [Repo]() | localhost| ---
-  Chat AI | React , Gemini API , Vercel| [Repo](http://genaichat.vercel.app) | Vercel | [Chat AI](http://genaichat.vercel.app)
+  PortfolioV2 Website - FullStack |  NextJs, Tailwind CSS, Javascript, Animations, EmailJS, GeminiAI, Chatbot(Custom) | [Repo](https://github.com/ikamalagrahari/Nextjs-Portfolio) | Vercel | [Portfolio](https://ikamalagrahari.vercel.app/)
   Books4Engineers- Book Selling Website | HTML, CSS, JS, Libraries, Payment Gateway, Google Map API, Saas | [Repo](https://github.com/ikamalagrahari/Books4Engineers) | Vercel | [Books4Engineers](https://webxkamal.vercel.app/Books4Engineers/index.html)
-  TRPWS- NGO website | HTML, CSS, JS, Google Map API  | [Repo](https://github.com/ikamalagrahari/NGO-Web) | Github Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.com/)
+ TRPWS- NGO website | HTML, CSS, JS, Google Map API  | [Repo](https://github.com/ikamalagrahari/NGO-Web) | Github Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.com/)
+  Chat AI | React , Gemini API , Vercel| [Repo](http://genaichat.vercel.app) | Vercel | [Chat AI](http://genaichat.vercel.app)
   LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | Android Application | ---
   GateGuard- Flutter App for Sensor Project | Android Studio , Flutter , Dart , Python , MongoDB , SqLite , Canva | [Repo](https://github.com/ikamalagrahari/GateGuard-Arduino) | Android Application | ---
-  Portfolio Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
+  PortfolioV1 Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
   AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | Desktop GUI | ---
   Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) | Desktop GUI | ---
   BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/ikamalagrahari/BeatBoX) | Desktop GUI | ---
