@@ -4,7 +4,7 @@
 
 ### Hey, Welcome to My GitHub Profile! 👋
 ---
-I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML Enthusiast from India.
+I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML & Cloud Enthusiast from India.
 
 **About Me**
 - 🌱 Currently expanding my skills in Web & Software Development.
@@ -13,7 +13,7 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML Enthusiast from In
 - 🌐 Websites: PortfolioV2: https://ikamalagrahari.vercel.app/    |  PortfolioV1: https://webxkamal.vercel.app/
 
 **Interests**
-- 👩‍💻 Passionate about Full Stack development & AI/ML .
+- 👩‍💻 Passionate about Full Stack development, AI/ML & Cloud Technologies.
 - 📚 Enjoy learning new programming languages and technologies.
 - 🎮 When not coding, I'm watching movies/webseries, traveling, or lost in a good book.
 
