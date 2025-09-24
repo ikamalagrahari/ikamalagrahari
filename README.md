@@ -18,67 +18,39 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML & Cloud Enthusiast
 - 🎮 When not coding, I'm watching movies/webseries, traveling, or lost in a good book.
 
 ---
-## My Projects
 
- <!-- Web Development -->
- <!-- <details>-->
-  <!-- <summary><b>Projects </b></summary> -->
-  <br/>
-  
-  Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
-  ------- | :---------: | :--------: | :--------: | :-----------
-  TeamsConnect- Collabrate, Share & Meet | MERN Stack, Figma, Socket.io, AWS , Agile Method , Saas etc   | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app)
-  HouseRecipe- Recipe Sharing Community | MERN Stack , Figma, Vercel , Saas  etc | [Repo](https://houserecipe.vercel.app) | Vercel | [HouseRecipe](https://houserecipe.vercel.app) 
-  AcademicHub- An App for Educational Insitutes | MERN Stack, Chatbot, Figma, OpenAPI, Pinecode(VectorDb), Cloudnary , Saas etc| [Repo]() | localhost| ---
-  PortfolioV2 Website - FullStack |  NextJs, Tailwind CSS, Javascript, Animations, EmailJS, GeminiAI, Chatbot(Custom) | [Repo](https://github.com/ikamalagrahari/Nextjs-Portfolio) | Vercel | [Portfolio](https://ikamalagrahari.vercel.app/)
-  Books4Engineers- Book Selling Website | HTML, CSS, JS, Libraries, Payment Gateway, Google Map API, Saas | [Repo](https://github.com/ikamalagrahari/Books4Engineers) | Vercel | [Books4Engineers](https://webxkamal.vercel.app/Books4Engineers/index.html)
- TRPWS- NGO website | HTML, CSS, JS, Google Map API  | [Repo](https://github.com/ikamalagrahari/NGO-Web) | Github Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.com/)
-  Chat AI | React , Gemini API , Vercel| [Repo](http://genaichat.vercel.app) | Vercel | [Chat AI](http://genaichat.vercel.app)
-  LoCoFit- Location & Fitness App | Android Studio , Java , XML , Google Map API , Canva | [Repo](https://github.com/ikamalagrahari/LoCoFit) | Android Application | ---
-  GateGuard- Flutter App for Sensor Project | Android Studio , Flutter , Dart , Python , MongoDB , SqLite , Canva | [Repo](https://github.com/ikamalagrahari/GateGuard-Arduino) | Android Application | ---
-  PortfolioV1 Website |  HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [Portfolio](https://webxkamal.vercel.app/)
-  AcciBook-Automation In Financial Documents and Bookkeeping | Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva| [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | Desktop GUI | ---
-  Virtual Assistant with Python and ChatGPT | Python ,OpenAi API, Pycharm| [Repo](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) | Desktop GUI | ---
-  BeatBox | Python, Pygame, Tkinter  | [Repo](https://github.com/ikamalagrahari/BeatBoX) | Desktop GUI | ---
- <!-- Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
-  Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/) -->
-  
-  </details>
+## 🚀 Main Projects Spotlight
 
+These projects showcase my work and interests across full stack development, cloud, AI/ML, and automation:
 
-🚀 [AcciBook-Automation In Financial Documents and Bookkeeping](https://github.com/ikamalagrahari/ocr-to-excel) :-
-- Through our survey we have found that small and medium sized business SMB's lacks automation of finances, and have a lot of manual labour.
-- Our objective is to build an effective solution for automation of financial documents for small and medium sized businesses reducing their labour costs and to make bookkeeping easier.
-- Unleash the Power of Automation: Extract text, Segment items, Validate data, Organize Data
-- Benefits of Joining the OCR Revolution:
-  Save hours of tedious manual data entry!, Boost accuracy with automated data extraction!.
-  Simplify bookkeeping and financial analysis!, Gain insights
-- Tech Stack : Python , Tkinter , Mindee API , OCR, Openpyxl , Pycharm , Canva
+| Project Name | Tech Stack | Source Code | Hosting Platform | Website Link |
+| ------------ | ---------- | ----------- | ---------------- | ------------ |
+| **EyeView.ai – Real-time Violence Detection** | YOLO, Flask, React, Firebase, Twilio | [Repo](https://github.com/ikamalagrahari/EyeView_v2) | Vercel/Custom | [EyeView.ai Demo](https://github.com/ikamalagrahari/EyeView_v2#project-demo) |
+| **LoanVista – Loan Analytics & Management Platform** | React, Node.js, Python, Django | [Repo](https://github.com/ikamalagrahari/LoanVista) | Vercel | [LoanVista Demo](https://loanvista.vercel.app) |
+| **AcademicHub – EdTech Platform** | MERN Stack, Chatbot, Figma, OpenAPI, Pinecone(VectorDB), Cloudinary, SaaS | [Repo](https://github.com/ikamalagrahari/AcademicHub) | Localhost | --- |
+| **TeamsConnect – Collaborate, Share & Meet** | MERN Stack, Figma, Socket.io, AWS, Agile, SaaS | [Repo](https://teamsconnect.vercel.app) | Vercel/Netlify | [TeamsConnect](https://teamsconnect.vercel.app) |
+| **HouseRecipe – Recipe Sharing Community** | MERN Stack, Figma, SaaS | [Repo](https://houserecipe.vercel.app) | Vercel | [HouseRecipe](https://houserecipe.vercel.app) |
+| **PortfolioV2 Website – FullStack** | NextJs, Tailwind CSS, EmailJS, Custom Chatbot | [Repo](https://github.com/ikamalagrahari/Nextjs-Portfolio) | Vercel | [Live](https://kamalagrahari.me) |
+| **Books4Engineers – Book Selling Website** | HTML, CSS, JS, Google Map API, SaaS | [Repo](https://github.com/ikamalagrahari/Books4Engineers) | Vercel | [Books4Engineers](https://ikamalagrahari.github.io/Books4Engineers/) |
+| **TRPWS – NGO Website** | HTML, CSS, JS, Google Map API | [Repo](https://github.com/ikamalagrahari/NGO-Web) | GitHub Pages | [NGO](https://ikamalagrahari.github.io/NGO-Web/) , [Live](https://www.trpws.org/) |
+| **LoCoFit – Location & Fitness App** | Android Studio, Java, XML, Google Map API | [Repo](https://github.com/ikamalagrahari/LoCoFit) | Android App | --- |
+| **GateGuard – Sensor Project (Flutter App)** | Android Studio, Flutter, Dart, Python, MongoDB, SQLite | [Repo](https://github.com/ikamalagrahari/GateGuard-Arduino) | Android App | --- |
+| **PortfolioV1 Website** | HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [PortfolioV1](https://webxkamal.vercel.app/) |
+| **AcciBook – Financial Document Automation** | Python, Tkinter, Mindee API, OCR, Openpyxl | [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | Desktop GUI | --- |
 
-🚀 [LoCoFit- Location & Fitness App ](https://github.com/ikamalagrahari/LoCoFit) :-
-- Our app is designed to support fitness enthusiasts in numerous ways, encompassing exercise history,
-  graphical analysis, real-time location tracking, monitoring, motivation, and progress analysis,
-  also helps users to track steps, distance, calories burned, and other fitness metrics among its wide array of features.
-- Provides feedback on progress, set goals, and offer challenges.
-- Tech Stack : Android Studio , Java , XML , Google Map API , Canva
-
-🚀 [Virtual Assistant with Python and ChatGPT](https://github.com/ikamalagrahari/Virtual-Assistant-with-Python-and-ChatGPT) :-
--  A Python-based Virtual Assistant, powered by ChatGPT, delivers multifaceted aid through AI-generated replies.
--  Leveraging Python, it seamlessly interacts, offering guidance, info, and dynamic conversations via ChatGPT's language skills, enabling diverse user interactions.
--  Tech Stack : Python ,OpenAi API, Pycharm
-  
+---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
+
 <p align="center">
     <a href="https://https://github.com/ikamalagrahari/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ikamalagrahari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -87,17 +59,17 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML & Cloud Enthusiast
  
 ##
    <br/>
-<a href="https://github.com/ikamalagrahari/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikamalagrahari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ikamalagrahari/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikamalagrahari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/ikamalagrahari/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikamalagrahari&show_icons=true&count_private=true&theme=radical"/></a>
+<a href="https://github.com/ikamalagrahari/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikamalagrahari&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ikamalagrahari)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ikamalagrahari)
 
+---
 
----    
 ## Let's Connect 🌐:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikamalagrahari) 
@@ -108,7 +80,4 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML & Cloud Enthusiast
 
 Thanks for visiting my GitHub profile! I'm always excited to collaborate on projects and connect with fellow developers. Let's build something awesome together! 😄
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamalagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="KAMAL AGRAHARI" /> </p>
-
-
