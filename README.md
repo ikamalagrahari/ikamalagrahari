@@ -1,14 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalagrahari03&label=Profile%20views&color=0e75b6&style=flat" alt="KAMAL AGRAHARI" /> </p>
 
-![Profile](Banner.png)
-
 ### Hey, Welcome to My GitHub Profile! 👋
 ---
 I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML & Cloud Enthusiast from India.
 
 **About Me**
 - 🌱 Currently expanding my skills in Web & Software Development.
-- 🎓 Studying BE-IT at University of Mumbai.
+- 🎓 Studying Final Year BE-IT from University of Mumbai.
 - 📧 Contact: ikamalagrahari@gmail.com  |  kamalagrahari2003@gmail.com 
 - 🌐 Websites: PortfolioV2: https://kamalagrahari.me    |  PortfolioV1: https://webxkamal.vercel.app/
 
@@ -52,7 +50,7 @@ These projects showcase my work and interests across full stack development, clo
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://https://github.com/ikamalagrahari/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ikamalagrahari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -67,7 +65,7 @@ These projects showcase my work and interests across full stack development, clo
 <br/>
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ikamalagrahari)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ikamalagrahari) -->
 
 ---
 
