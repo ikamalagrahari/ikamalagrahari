@@ -23,7 +23,8 @@ These projects showcase my work and interests across full stack development, clo
 
 | Project Name | Tech Stack | Source Code | Hosting Platform | Website Link |
 | ------------ | ---------- | ----------- | ---------------- | ------------ |
-| **EyeView.ai – Real-time Violence Detection** | YOLO, Flask, React, Firebase, Twilio | [Repo](https://github.com/ikamalagrahari/EyeView_v2) | Vercel/Custom | [EyeView.ai Demo](https://github.com/ikamalagrahari/EyeView_v2#project-demo) |
+| **Dineflow Enterprise Resourse Planning** | NextJS, AWS, Twilio, Redux, RBAC | [Repo](https://github.com/ikamalagrahari/Dineflow-ERP) | Vercel/Custom | [Live](https://dineflow-erp.vercel.app)|
+| **EyeView.ai – Real-time Violence Detection** | YOLO, Flask, React, Firebase, Twilio | [Repo](https://github.com/ikamalagrahari/EyeView_v2) | Vercel/Custom | [EyeView.ai Demo](https://github.com/ikamalagrahari/EyeView_v2#project-demo)|
 | **LoanVista – Loan Analytics & Management Platform** | Python, React, Node.js, Django | [Repo](https://github.com/ikamalagrahari/LoanVista) | Vercel | [LoanVista Demo](https://loanvista.vercel.app) |
 | **ArtWorkReco – AI-powered Artwork Recognition** | Python, Flask, TensorFlow, React | [Repo](https://github.com/ikamalagrahari/ArtWorkReco) | Custom/Localhost | --- |
 | **AcademicHub – EdTech Platform** | MERN Stack, Chatbot, Figma, OpenAPI, Pinecone(VectorDB), Cloudinary, SaaS | [Repo](https://github.com/ikamalagrahari/AcademicHub) | Localhost | --- |
