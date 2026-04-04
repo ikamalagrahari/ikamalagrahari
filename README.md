@@ -26,7 +26,7 @@ These projects showcase my work and interests across full stack development, clo
 | **Dineflow Enterprise Resourse Planning** | NextJS, AWS, Twilio, Redux, RBAC | [Repo](https://github.com/ikamalagrahari/Dineflow-ERP) | Vercel/Custom | [Live](https://dineflow-erp.vercel.app)|
 | **EyeView.ai – Real-time Violence Detection** | YOLO, Flask, React, Firebase, Twilio | [Repo](https://github.com/ikamalagrahari/EyeView_v2) | Vercel/Custom | [EyeView.ai Demo](https://github.com/ikamalagrahari/EyeView_v2#project-demo)|
 | **NexusFund – Crowdfunding DApp** | Web3, Solidity, MetaMask, Hardhat, React,js, MongoDB, Node.sj | [Repo](https://github.com/ikamalagrahari/Blaockchain_Crowdfunding) | Localhost |---|
-| **Inventra – AI powered Warehouse Management** | React, LLM, MongoDB, Node.js | [Repo](https://github.com/ikamalagrahari/Hack-odoo) | Vercel/Custom | [Inventra](https;//inventra.kamalagrahari.me)|
+| **Inventra – AI powered Warehouse Management** | React, LLM, MongoDB, Node.js | [Repo](https://github.com/ikamalagrahari/Hack-odoo) | Vercel/Custom | [Inventra](https://inventra.kamalagrahari.me) |
 | **LoanVista – Loan Analytics & Management Platform** | Python, React, Node.js, Django | [Repo](https://github.com/ikamalagrahari/LoanVista) | Vercel | [LoanVista Demo](https://loanvista.vercel.app) |
 | **ArtWorkReco – AI-powered Artwork Recognition** | Python, Flask, TensorFlow, React | [Repo](https://github.com/ikamalagrahari/ArtWorkReco) | Custom/Localhost | --- |
 | **AcademicHub – EdTech Platform** | MERN Stack, Chatbot, Figma, OpenAPI, Pinecone(VectorDB), Cloudinary, SaaS | [Repo](https://github.com/ikamalagrahari/AcademicHub) | Localhost | --- |
