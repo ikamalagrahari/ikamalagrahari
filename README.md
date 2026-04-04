@@ -25,6 +25,8 @@ These projects showcase my work and interests across full stack development, clo
 | ------------ | ---------- | ----------- | ---------------- | ------------ |
 | **Dineflow Enterprise Resourse Planning** | NextJS, AWS, Twilio, Redux, RBAC | [Repo](https://github.com/ikamalagrahari/Dineflow-ERP) | Vercel/Custom | [Live](https://dineflow-erp.vercel.app)|
 | **EyeView.ai – Real-time Violence Detection** | YOLO, Flask, React, Firebase, Twilio | [Repo](https://github.com/ikamalagrahari/EyeView_v2) | Vercel/Custom | [EyeView.ai Demo](https://github.com/ikamalagrahari/EyeView_v2#project-demo)|
+| **NexusFund – Crowdfunding DApp** | Web3, Solidity, MetaMask, Hardhat, React,js, MongoDB, Node.sj | [Repo](https://github.com/ikamalagrahari/Blaockchain_Crowdfunding) | Localhost |---|
+| **Inventra – AI powered Warehouse Management** | React, LLM, MongoDB, Node.js | [Repo](https://github.com/ikamalagrahari/Hack-odoo) | Vercel/Custom | [Inventra](https;//inventra.kamalagrahari.me)|
 | **LoanVista – Loan Analytics & Management Platform** | Python, React, Node.js, Django | [Repo](https://github.com/ikamalagrahari/LoanVista) | Vercel | [LoanVista Demo](https://loanvista.vercel.app) |
 | **ArtWorkReco – AI-powered Artwork Recognition** | Python, Flask, TensorFlow, React | [Repo](https://github.com/ikamalagrahari/ArtWorkReco) | Custom/Localhost | --- |
 | **AcademicHub – EdTech Platform** | MERN Stack, Chatbot, Figma, OpenAPI, Pinecone(VectorDB), Cloudinary, SaaS | [Repo](https://github.com/ikamalagrahari/AcademicHub) | Localhost | --- |
@@ -37,26 +39,15 @@ These projects showcase my work and interests across full stack development, clo
 | **GateGuard – Sensor Project (Flutter App)** | Android Studio, Flutter, Dart, Python, MongoDB, SQLite | [Repo](https://github.com/ikamalagrahari/GateGuard-Arduino) | Android App | --- |
 | **PortfolioV1 Website** | HTML, CSS, JS, GSAP | [Repo](https://github.com/ikamalagrahari/portfolio) | Vercel | [PortfolioV1](https://webxkamal.vercel.app/) |
 | **AcciBook – Financial Document Automation** | Python, Tkinter, Mindee API, OCR, Openpyxl | [Repo](https://github.com/ikamalagrahari/ocr-to-excel) | Desktop GUI | --- |
-
----
-
-## ⚡ Other Notable Projects
-
-| Project Name | Tech Stack | Source Code | Hosting Platform | Website Link |
-| ------------ | ---------- | ----------- | ---------------- | ------------ |
 | **AIChatBot – AI Chat Application** | JavaScript, React, Google Gemini API | [Repo](https://github.com/ikamalagrahari/AIChatBot) | Vercel | [GenAI Chat](https://genaichat.vercel.app/) |
 | **GenAI_TrulyMadly – AI Operations Assistant** | Python, Google Gemini AI, FastAPI, Streamlit, Multi-Agent | [Repo](https://github.com/ikamalagrahari/GenAI_TrulyMadly) | Localhost | --- |
 | **MenuManagementBackend – Restaurant Menu System** | Node.js, Express, MongoDB, React | [Repo](https://github.com/ikamalagrahari/MenuManagementBackend) | Vercel | [Live](https://menu-management-backend-one.vercel.app) |
-| **ZorvynTask – Finance Tracker API** | Node.js, Express, MongoDB, JWT, RBAC, Aggregation Pipelines | [Repo](https://github.com/ikamalagrahari/ZorvynTask_Finance_DP_and_AC) | Localhost | --- |
-| **DineFlow-App – Mobile Dining App** | Flutter, Dart, Auth0 | [Repo](https://github.com/ikamalagrahari/DineFlow-App) | Android/iOS App | --- |
-| **cybersecurity-dashboard – Cybersecurity Dashboard** | TypeScript, Next.js, Tailwind CSS | [Repo](https://github.com/ikamalagrahari/cybersecurity-dashboard) | Vercel | --- |
+| **ZorvynTask – Finance Tracker API** | Node.js, Express, MongoDB, JWT, RBAC, Aggregation Pipelines | [Repo](https://github.com/ikamalagrahari/ZorvynTask_Finance_DP_and_AC) | Localhost | [Live](https://zorvyn-task-finance-dp-and-ac.vercel.app/) |
 | **CyberShield – Cybersecurity Platform** | TypeScript, Next.js, Tailwind CSS | [Repo](https://github.com/ikamalagrahari/cybershield) | Vercel | --- |
 | **FoodFrenzy – Restaurant Management System** | Java, Spring Boot, MySQL, Thymeleaf | [Repo](https://github.com/ikamalagrahari/FoodFrenzy) | Localhost | --- |
 | **Student Stress Analysis & Prediction** | Python, Jupyter Notebook, scikit-learn, Pandas, ML | [Repo](https://github.com/ikamalagrahari/student_stress_analysis_and_prediction) | Localhost | --- |
 | **BeatBoX – MP3 Player** | Python, pygame, Tkinter | [Repo](https://github.com/ikamalagrahari/BeatBoX) | Desktop GUI | --- |
-| **EduNet-MERNStack – E-Learning Platform** | MERN Stack (MongoDB, Express, React, Node.js) | [Repo](https://github.com/ikamalagrahari/EduNet-MERNStack) | Localhost | --- |
 | **Spam or Ham – Email Classifier** | Python, Jupyter Notebook, NLP, ML | [Repo](https://github.com/ikamalagrahari/spam_or_ham) | Localhost | --- |
-| **Prodigy InfoTech Internship – Web Projects** | HTML, CSS, JavaScript | [Repo](https://github.com/ikamalagrahari/Prodigy-InfoTech-Internship) | GitHub Pages | --- |
 
 ---
 
