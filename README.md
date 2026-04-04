@@ -40,6 +40,26 @@ These projects showcase my work and interests across full stack development, clo
 
 ---
 
+## ⚡ Other Notable Projects
+
+| Project Name | Tech Stack | Source Code | Hosting Platform | Website Link |
+| ------------ | ---------- | ----------- | ---------------- | ------------ |
+| **AIChatBot – AI Chat Application** | JavaScript, React, Google Gemini API | [Repo](https://github.com/ikamalagrahari/AIChatBot) | Vercel | [GenAI Chat](https://genaichat.vercel.app/) |
+| **GenAI_TrulyMadly – AI Operations Assistant** | Python, Google Gemini AI, FastAPI, Streamlit, Multi-Agent | [Repo](https://github.com/ikamalagrahari/GenAI_TrulyMadly) | Localhost | --- |
+| **MenuManagementBackend – Restaurant Menu System** | Node.js, Express, MongoDB, React | [Repo](https://github.com/ikamalagrahari/MenuManagementBackend) | Vercel | [Live](https://menu-management-backend-one.vercel.app) |
+| **ZorvynTask – Finance Tracker API** | Node.js, Express, MongoDB, JWT, RBAC, Aggregation Pipelines | [Repo](https://github.com/ikamalagrahari/ZorvynTask_Finance_DP_and_AC) | Localhost | --- |
+| **DineFlow-App – Mobile Dining App** | Flutter, Dart, Auth0 | [Repo](https://github.com/ikamalagrahari/DineFlow-App) | Android/iOS App | --- |
+| **cybersecurity-dashboard – Cybersecurity Dashboard** | TypeScript, Next.js, Tailwind CSS | [Repo](https://github.com/ikamalagrahari/cybersecurity-dashboard) | Vercel | --- |
+| **CyberShield – Cybersecurity Platform** | TypeScript, Next.js, Tailwind CSS | [Repo](https://github.com/ikamalagrahari/cybershield) | Vercel | --- |
+| **FoodFrenzy – Restaurant Management System** | Java, Spring Boot, MySQL, Thymeleaf | [Repo](https://github.com/ikamalagrahari/FoodFrenzy) | Localhost | --- |
+| **Student Stress Analysis & Prediction** | Python, Jupyter Notebook, scikit-learn, Pandas, ML | [Repo](https://github.com/ikamalagrahari/student_stress_analysis_and_prediction) | Localhost | --- |
+| **BeatBoX – MP3 Player** | Python, pygame, Tkinter | [Repo](https://github.com/ikamalagrahari/BeatBoX) | Desktop GUI | --- |
+| **EduNet-MERNStack – E-Learning Platform** | MERN Stack (MongoDB, Express, React, Node.js) | [Repo](https://github.com/ikamalagrahari/EduNet-MERNStack) | Localhost | --- |
+| **Spam or Ham – Email Classifier** | Python, Jupyter Notebook, NLP, ML | [Repo](https://github.com/ikamalagrahari/spam_or_ham) | Localhost | --- |
+| **Prodigy InfoTech Internship – Web Projects** | HTML, CSS, JavaScript | [Repo](https://github.com/ikamalagrahari/Prodigy-InfoTech-Internship) | GitHub Pages | --- |
+
+---
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
