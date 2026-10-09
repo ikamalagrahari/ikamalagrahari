@@ -6,7 +6,7 @@ I'm Kamal Agrahari, a passionate Full Stack Developer & AI/ML & Cloud Enthusiast
 
 **About Me**
 - 🌱 Currently expanding my skills in Web & Software Development.
-- 🎓 Studying Final Year BE-IT from University of Mumbai.
+- 🎓 BE-IT graduate from the University of Mumbai.
 - 📧 Contact: ikamalagrahari@gmail.com
 - 🌐 Websites: PortfolioV2: https://ikamalagrahari.vercel.app    |  PortfolioV1: https://webxkamal.vercel.app/
 
